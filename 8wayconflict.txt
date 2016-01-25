@@ -1,4 +1,5 @@
 function
 {
-	// features go here
+	function1 = Shawalawala
+	function8 = BangBang
 }
