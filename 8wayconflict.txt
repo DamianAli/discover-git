@@ -1,5 +1,5 @@
 function
 {
-	function1 = Shawalawala
+	function1 = Hey
 	function8 = BangBang
 }
